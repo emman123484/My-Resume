@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    font-family: 'Poppins', tahoma;
+    box-sizing: border-box
+}
+body{
+    
+    color: #000000;
+
+}
+.container {
+    position: absolute; margin:0 auto; width:100%; background: #080808; min-height: 600px;
+ }
+ .white-box { 
+    width: 1200px; margin: 0 auto; padding:20px; background: #f4f5f4;
+
+ }
+p, h1, h4, h5{
+ color: black; 
+   
+}
+.yellow-box {
+     padding:20px;  background: #FFA500;
+}
+.frame-yellow {
+  padding: 50px;  background: #f4f5f4;
+}
+.name{
+    font-size: 22px
+}
+.full{
+
+    font-size: 60px
+    
+    
+}
+.data{
+    font-size: 21px;
+    margin-top: 15px
+}
+.personal{
+    font-size: 19px;
+    margin-bottom: px
+}
+.work{
+    font-size: 21px;
+    margin-top: 15px
+    
+}
+.expe{
+    font-size: 19px;
+    margin-bottom: 15px
+    
+}
+.margin{
+    margin-left: 30px;
+    
+}
+
+.educational{
+    
+    font-size: 21px;
+    margin-top: 15px
+}
+.educ{
+    font-size: 19px;
+    margin-bottom: 15px
+}
+.summary{
+    font-size: 19px; 
+    margin-top: 15px
+}
+.quali{
+    font-size: 20px;
+    margin-bottom: 15px
+}
+.personal{
+    font-size: 21px;
+    margin-top: 15px
+    
+
+}
+.personal{
+    display: inline-block;
+    margin-left: 0px;
+
+}
+
+.skills{
+    font-size: 20px;
+    margin-bottom: 15px
+}
+.technical{
+    font-size: 21px;
+    margin-top: 15px
+    
+}
+.technical{
+    display: inline-block;
+    margin-left: 317px;
+
+}
+.tech{
+    font-size: 20px;
+    margin-bottom: 15px
+}
+.tech{
+    height: 25px;
+    width: 270px;
+    display: inline-block
+}
+.character{
+    font-size: 21px;
+    margin-top: 15px
+    
+}
+.ref{
+    font-size: 20px;
+    margin-bottom: 15px
+    
+}
+.list{
+    height: 100px;
+    width: 270px;
+    display: inline-block
+    
+
+}
+.list{
+    margin-left: 60px;
+}
+
+hr.solid {
+    border-top: 5px solid #000000;
+    margin-top: 20px;
+    
+}
+hr.line{
+    order-top: 5px solid #000000;
+    margin-top: 20px;
+    margin-bottom: 5px
+}
+
+.a{
+    margin-top: 10px;
+}
